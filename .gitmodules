@@ -1,3 +1,6 @@
 [submodule "labs-submodule"]
 	path = labs-submodule
 	url = https://github.com/incca-community/labs-submodule.git
+[submodule "lab-repository-private"]
+	path = lab-repository-private
+	url = https://github.com/Andersonfrfilho/lab-repository-private.git
