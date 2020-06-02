@@ -1,0 +1,3 @@
+[submodule "labs-submodule"]
+	path = labs-submodule
+	url = https://github.com/incca-community/labs-submodule.git
